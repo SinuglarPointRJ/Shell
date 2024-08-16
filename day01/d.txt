@@ -1,0 +1,6 @@
+name,age,sex,salary
+Alice,30,女,9000
+Karry,21,女,5000
+Joan,38,男,10000
+Lily,26,女,3000
+KARRY,27,女,6000

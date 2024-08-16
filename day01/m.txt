@@ -1,0 +1,8 @@
+2023-06-25 12:34:56 info User1 logged in
+# 连接数据库失败
+2023-06-25 12:35:00 error Failed to connect to database
+2023-06-25 12:35:05 info User2 logged out
+2023-06-25 12:36:10 warn Disk space low
+
+2023-06-25 12:36:15 info User3 logged in
+2023-06-25 12:37:00 error Time out

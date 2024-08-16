@@ -1,0 +1,5 @@
+name,age,sex,salary
+Alice,30,女,9000
+Bob,25,男,8000
+Carol,35,男,7000
+Karry,21,女,5000
